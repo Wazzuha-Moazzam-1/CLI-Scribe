@@ -11,14 +11,6 @@ I have updated your [`README.md`](file:///C:/Users/W.Moazzam%27s%20laptop/OneDri
 
 **Distributed Real-Time Multi-Agent Structural AST Observability Pipeline with DNotifier**
 
-[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Tree-sitter](https://img.shields.io/badge/parser-tree--sitter-green.svg)](https://tree-sitter.github.io/tree-sitter/)
-[![DNotifier Mesh](https://img.shields.io/badge/event_mesh-DNotifier_Cloud-purple.svg)](https://dnotifier.com)
-[![Tests](https://img.shields.io/badge/tests-8%20passed-brightgreen.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Repo-Scribe Live transforms static code analysis into a distributed, real-time multi-agent observability pipeline. By hooking **Tree-sitter Abstract Syntax Tree (AST) parsing** directly into **DNotifier’s real-time event mesh**, the system captures code modifications as structural diffs rather than naive git string deltas.
-
 Instead of waiting for a breaking CI/CD build or manual pull request review, an intelligent structural reasoning agent evaluates in-memory Directed Acyclic Graphs (DAGs) and architectural constraints in real time, detecting architectural drift and contract breaches the second code hits disk.
 
 ---
