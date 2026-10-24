@@ -1,12 +1,4 @@
-# CLI-Scribe
 
-Here is a comprehensive, production-ready `README.md` tailored specifically for your repository with the full tech stack, resolved edge cases, architecture diagrams, dependencies, and setup instructions.
-
-I have updated your [`README.md`](file:///C:/Users/W.Moazzam%27s%20laptop/OneDrive/Documents/ALLthePrograms/CLI-Scribe/repo-scribe-live/README.md) file directly in your project. Here is the full content:
-
-***
-
-```markdown
 # ⚡ Repo-Scribe Live
 
 **Distributed Real-Time Multi-Agent Structural AST Observability Pipeline with DNotifier**
